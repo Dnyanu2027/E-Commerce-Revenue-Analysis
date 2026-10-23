@@ -1,0 +1,909 @@
+menu_id,restaurant_id,item_name,category,price,is_veg
+1,1,Chilli Paneer,Chinese,219,1
+2,1,Chicken Fried Rice,Chinese,99,0
+3,1,Manchurian Dry,Chinese,149,1
+4,1,Schezwan Noodles,Chinese,279,1
+5,1,Spring Rolls,Chinese,99,1
+6,1,Veg Hakka Noodles,Chinese,149,1
+7,1,Honey Chilli Potato,Chinese,99,1
+8,1,Momos (Fried),Chinese,129,1
+9,2,Motichoor Ladoo,Desserts,399,1
+10,2,Chocolate Brownie,Desserts,129,1
+11,2,Waffle with Nutella,Desserts,169,1
+12,2,Rasmalai,Desserts,199,1
+13,2,Cheesecake Slice,Desserts,199,1
+14,2,Gulab Jamun,Desserts,169,1
+15,2,Ice Cream Sundae,Desserts,249,1
+16,2,Kulfi Falooda,Desserts,279,1
+17,3,Upma,South Indian,169,1
+18,3,Medu Vada,South Indian,129,1
+19,3,Filter Coffee,South Indian,329,1
+20,3,Curd Rice,South Indian,129,1
+21,3,Ghee Roast Dosa,South Indian,299,1
+22,3,Rava Dosa,South Indian,299,1
+23,3,Idli Sambar,South Indian,279,1
+24,3,Masala Dosa,South Indian,179,1
+25,4,Raita,Biryani,329,1
+26,4,Veg Biryani,Biryani,149,1
+27,4,Paneer Biryani,Biryani,199,1
+28,4,Mutton Biryani,Biryani,219,0
+29,4,Egg Biryani,Biryani,99,0
+30,4,Double Ka Meetha,Biryani,119,1
+31,4,Chicken 65 Biryani,Biryani,279,0
+32,4,Chicken Dum Biryani,Biryani,249,0
+33,5,Spring Rolls,Chinese,299,1
+34,5,Manchurian Dry,Chinese,99,1
+35,5,Chilli Paneer,Chinese,399,1
+36,5,Chicken 65,Chinese,79,0
+37,5,Schezwan Noodles,Chinese,349,1
+38,5,Veg Hakka Noodles,Chinese,219,1
+39,6,Upma,South Indian,219,1
+40,6,Curd Rice,South Indian,399,1
+41,6,Rava Dosa,South Indian,219,1
+42,6,Masala Dosa,South Indian,199,1
+43,6,Uttapam,South Indian,279,1
+44,6,Medu Vada,South Indian,329,1
+45,7,Avocado Toast,Healthy,219,1
+46,7,Protein Wrap,Healthy,219,1
+47,7,Grilled Chicken Salad,Healthy,99,0
+48,7,Fruit Bowl,Healthy,179,1
+49,7,Smoothie Bowl,Healthy,169,1
+50,7,Quinoa Salad Bowl,Healthy,219,1
+51,7,Oats Bowl,Healthy,79,1
+52,8,Peppy Paneer Pizza,Pizza,249,1
+53,8,Veggie Supreme,Pizza,249,1
+54,8,Cheese Garlic Bread,Pizza,279,1
+55,8,Farmhouse Pizza,Pizza,349,1
+56,8,Chicken Dominator,Pizza,119,0
+57,8,Margherita Pizza,Pizza,299,1
+58,8,Pepperoni Pizza,Pizza,299,0
+59,9,Choco Lava Cake,Pizza,129,1
+60,9,Margherita Pizza,Pizza,79,1
+61,9,Farmhouse Pizza,Pizza,279,1
+62,9,Chicken Dominator,Pizza,129,0
+63,9,Pepperoni Pizza,Pizza,219,0
+64,9,Veggie Supreme,Pizza,399,1
+65,9,Cheese Garlic Bread,Pizza,329,1
+66,9,Peppy Paneer Pizza,Pizza,169,1
+67,10,Pepperoni Pizza,Pizza,249,0
+68,10,Chicken Dominator,Pizza,219,0
+69,10,Margherita Pizza,Pizza,249,1
+70,10,Choco Lava Cake,Pizza,119,1
+71,10,Peppy Paneer Pizza,Pizza,179,1
+72,10,Cheese Garlic Bread,Pizza,279,1
+73,10,Farmhouse Pizza,Pizza,179,1
+74,10,Veggie Supreme,Pizza,169,1
+75,11,Veg Whopper,Burger,349,1
+76,11,Peri Peri Fries,Burger,349,1
+77,11,Chicken Zinger,Burger,169,0
+78,11,Cheese Burger,Burger,199,1
+79,11,Cold Coffee,Burger,329,1
+80,11,Crispy Chicken Burger,Burger,199,0
+81,11,Veg Wrap,Burger,399,1
+82,11,Aloo Tikki Burger,Burger,249,1
+83,12,Chicken Zinger,Burger,279,0
+84,12,Cheese Burger,Burger,149,1
+85,12,Veg Whopper,Burger,129,1
+86,12,Crispy Chicken Burger,Burger,119,0
+87,12,Aloo Tikki Burger,Burger,119,1
+88,12,Cold Coffee,Burger,119,1
+89,13,Grilled Chicken Salad,Healthy,279,0
+90,13,Avocado Toast,Healthy,199,1
+91,13,Oats Bowl,Healthy,199,1
+92,13,Protein Wrap,Healthy,129,1
+93,13,Smoothie Bowl,Healthy,249,1
+94,13,Fruit Bowl,Healthy,119,1
+95,13,Quinoa Salad Bowl,Healthy,279,1
+96,13,Green Detox Juice,Healthy,349,1
+97,14,Chicken Dum Biryani,Biryani,79,0
+98,14,Veg Biryani,Biryani,119,1
+99,14,Paneer Biryani,Biryani,149,1
+100,14,Double Ka Meetha,Biryani,399,1
+101,14,Chicken 65 Biryani,Biryani,119,0
+102,14,Raita,Biryani,219,1
+103,14,Mutton Biryani,Biryani,179,0
+104,14,Egg Biryani,Biryani,249,0
+105,15,Quinoa Salad Bowl,Healthy,349,1
+106,15,Avocado Toast,Healthy,199,1
+107,15,Green Detox Juice,Healthy,119,1
+108,15,Smoothie Bowl,Healthy,129,1
+109,15,Oats Bowl,Healthy,349,1
+110,15,Protein Wrap,Healthy,179,1
+111,15,Grilled Chicken Salad,Healthy,249,0
+112,15,Fruit Bowl,Healthy,119,1
+113,16,Peppy Paneer Pizza,Pizza,249,1
+114,16,Cheese Garlic Bread,Pizza,249,1
+115,16,Choco Lava Cake,Pizza,99,1
+116,16,Veggie Supreme,Pizza,129,1
+117,16,Pepperoni Pizza,Pizza,179,0
+118,16,Margherita Pizza,Pizza,179,1
+119,16,Farmhouse Pizza,Pizza,119,1
+120,16,Chicken Dominator,Pizza,99,0
+121,17,Egg Biryani,Biryani,99,0
+122,17,Chicken 65 Biryani,Biryani,119,0
+123,17,Double Ka Meetha,Biryani,199,1
+124,17,Paneer Biryani,Biryani,399,1
+125,17,Veg Biryani,Biryani,249,1
+126,17,Mutton Biryani,Biryani,249,0
+127,18,Butter Naan,North Indian,119,1
+128,18,Lassi,North Indian,399,1
+129,18,Dal Makhani,North Indian,249,1
+130,18,Kadai Paneer,North Indian,219,1
+131,18,Rajma Chawal,North Indian,349,1
+132,18,Shahi Paneer,North Indian,79,1
+133,19,Butter Naan,North Indian,249,1
+134,19,Chole Bhature,North Indian,329,1
+135,19,Shahi Paneer,North Indian,299,1
+136,19,Butter Chicken,North Indian,399,0
+137,19,Aloo Paratha,North Indian,329,1
+138,19,Dal Makhani,North Indian,349,1
+139,19,Tandoori Roti,North Indian,299,1
+140,19,Kadai Paneer,North Indian,249,1
+141,19,Paneer Butter Masala,North Indian,99,1
+142,20,Medu Vada,South Indian,149,1
+143,20,Uttapam,South Indian,129,1
+144,20,Mysore Pak,South Indian,79,1
+145,20,Curd Rice,South Indian,299,1
+146,20,Idli Sambar,South Indian,299,1
+147,20,Masala Dosa,South Indian,329,1
+148,20,Upma,South Indian,79,1
+149,20,Rava Dosa,South Indian,249,1
+150,20,Filter Coffee,South Indian,219,1
+151,21,Margherita Pizza,Pizza,169,1
+152,21,Chicken Dominator,Pizza,99,0
+153,21,Choco Lava Cake,Pizza,119,1
+154,21,Farmhouse Pizza,Pizza,179,1
+155,21,Peppy Paneer Pizza,Pizza,279,1
+156,21,Cheese Garlic Bread,Pizza,249,1
+157,22,Peri Peri Fries,Burger,329,1
+158,22,Veg Wrap,Burger,129,1
+159,22,Cold Coffee,Burger,179,1
+160,22,Cheese Burger,Burger,219,1
+161,22,Chicken Zinger,Burger,329,0
+162,22,Crispy Chicken Burger,Burger,219,0
+163,22,Veg Whopper,Burger,199,1
+164,22,Aloo Tikki Burger,Burger,119,1
+165,23,Ghee Roast Dosa,South Indian,179,1
+166,23,Upma,South Indian,299,1
+167,23,Mysore Pak,South Indian,119,1
+168,23,Medu Vada,South Indian,349,1
+169,23,Curd Rice,South Indian,349,1
+170,23,Uttapam,South Indian,279,1
+171,23,Filter Coffee,South Indian,99,1
+172,23,Rava Dosa,South Indian,299,1
+173,24,Mysore Pak,South Indian,329,1
+174,24,Medu Vada,South Indian,219,1
+175,24,Idli Sambar,South Indian,249,1
+176,24,Upma,South Indian,299,1
+177,24,Uttapam,South Indian,279,1
+178,24,Rava Dosa,South Indian,299,1
+179,24,Ghee Roast Dosa,South Indian,79,1
+180,25,Veg Wrap,Burger,99,1
+181,25,Crispy Chicken Burger,Burger,99,0
+182,25,Aloo Tikki Burger,Burger,149,1
+183,25,Cold Coffee,Burger,129,1
+184,25,Veg Whopper,Burger,169,1
+185,25,Cheese Burger,Burger,99,1
+186,25,Chicken Zinger,Burger,249,0
+187,26,Veg Wrap,Burger,249,1
+188,26,Cheese Burger,Burger,79,1
+189,26,Peri Peri Fries,Burger,329,1
+190,26,Crispy Chicken Burger,Burger,349,0
+191,26,Chicken Zinger,Burger,119,0
+192,26,Cold Coffee,Burger,279,1
+193,27,Motichoor Ladoo,Desserts,249,1
+194,27,Gulab Jamun,Desserts,119,1
+195,27,Rasmalai,Desserts,279,1
+196,27,Cheesecake Slice,Desserts,79,1
+197,27,Chocolate Brownie,Desserts,169,1
+198,27,Waffle with Nutella,Desserts,129,1
+199,27,Ice Cream Sundae,Desserts,279,1
+200,27,Kulfi Falooda,Desserts,79,1
+201,28,Idli Sambar,South Indian,249,1
+202,28,Uttapam,South Indian,129,1
+203,28,Curd Rice,South Indian,219,1
+204,28,Medu Vada,South Indian,79,1
+205,28,Filter Coffee,South Indian,299,1
+206,28,Rava Dosa,South Indian,299,1
+207,28,Ghee Roast Dosa,South Indian,99,1
+208,29,Ghee Roast Dosa,South Indian,249,1
+209,29,Uttapam,South Indian,129,1
+210,29,Filter Coffee,South Indian,199,1
+211,29,Medu Vada,South Indian,399,1
+212,29,Curd Rice,South Indian,179,1
+213,29,Idli Sambar,South Indian,249,1
+214,30,Peri Peri Fries,Burger,99,1
+215,30,Veg Whopper,Burger,219,1
+216,30,Cheese Burger,Burger,149,1
+217,30,Cold Coffee,Burger,169,1
+218,30,Aloo Tikki Burger,Burger,99,1
+219,30,Chicken Zinger,Burger,329,0
+220,31,Peri Peri Fries,Burger,329,1
+221,31,Cold Coffee,Burger,169,1
+222,31,Veg Wrap,Burger,329,1
+223,31,Chicken Zinger,Burger,199,0
+224,31,Cheese Burger,Burger,279,1
+225,31,Veg Whopper,Burger,199,1
+226,31,Crispy Chicken Burger,Burger,399,0
+227,31,Aloo Tikki Burger,Burger,249,1
+228,32,Rajma Chawal,North Indian,329,1
+229,32,Dal Makhani,North Indian,129,1
+230,32,Garlic Naan,North Indian,279,1
+231,32,Aloo Paratha,North Indian,299,1
+232,32,Chole Bhature,North Indian,129,1
+233,32,Shahi Paneer,North Indian,329,1
+234,33,Green Detox Juice,Healthy,149,1
+235,33,Smoothie Bowl,Healthy,99,1
+236,33,Fruit Bowl,Healthy,179,1
+237,33,Avocado Toast,Healthy,279,1
+238,33,Quinoa Salad Bowl,Healthy,299,1
+239,33,Oats Bowl,Healthy,349,1
+240,33,Grilled Chicken Salad,Healthy,169,0
+241,33,Protein Wrap,Healthy,99,1
+242,34,Paneer Butter Masala,North Indian,299,1
+243,34,Rajma Chawal,North Indian,129,1
+244,34,Shahi Paneer,North Indian,129,1
+245,34,Kadai Paneer,North Indian,299,1
+246,34,Tandoori Roti,North Indian,129,1
+247,34,Garlic Naan,North Indian,349,1
+248,34,Lassi,North Indian,149,1
+249,34,Dal Makhani,North Indian,129,1
+250,34,Chole Bhature,North Indian,129,1
+251,34,Aloo Paratha,North Indian,129,1
+252,35,Crispy Chicken Burger,Burger,249,0
+253,35,Veg Whopper,Burger,79,1
+254,35,Aloo Tikki Burger,Burger,329,1
+255,35,Cold Coffee,Burger,349,1
+256,35,Peri Peri Fries,Burger,219,1
+257,35,Chicken Zinger,Burger,79,0
+258,35,Veg Wrap,Burger,349,1
+259,36,Filter Coffee,South Indian,179,1
+260,36,Upma,South Indian,129,1
+261,36,Mysore Pak,South Indian,329,1
+262,36,Uttapam,South Indian,249,1
+263,36,Medu Vada,South Indian,119,1
+264,36,Rava Dosa,South Indian,79,1
+265,36,Idli Sambar,South Indian,219,1
+266,36,Ghee Roast Dosa,South Indian,329,1
+267,36,Curd Rice,South Indian,179,1
+268,37,Quinoa Salad Bowl,Healthy,169,1
+269,37,Fruit Bowl,Healthy,299,1
+270,37,Smoothie Bowl,Healthy,79,1
+271,37,Protein Wrap,Healthy,79,1
+272,37,Grilled Chicken Salad,Healthy,279,0
+273,37,Green Detox Juice,Healthy,129,1
+274,37,Oats Bowl,Healthy,179,1
+275,37,Avocado Toast,Healthy,249,1
+276,38,Schezwan Noodles,Chinese,129,1
+277,38,Honey Chilli Potato,Chinese,149,1
+278,38,Spring Rolls,Chinese,199,1
+279,38,Chicken Fried Rice,Chinese,249,0
+280,38,Momos (Fried),Chinese,169,1
+281,38,Manchurian Dry,Chinese,169,1
+282,39,Momos (Fried),Chinese,349,1
+283,39,Momos (Steamed),Chinese,179,1
+284,39,Chilli Paneer,Chinese,149,1
+285,39,Honey Chilli Potato,Chinese,199,1
+286,39,Schezwan Noodles,Chinese,119,1
+287,39,Manchurian Dry,Chinese,249,1
+288,39,Spring Rolls,Chinese,119,1
+289,40,Ice Cream Sundae,Desserts,129,1
+290,40,Waffle with Nutella,Desserts,119,1
+291,40,Gulab Jamun,Desserts,329,1
+292,40,Chocolate Brownie,Desserts,299,1
+293,40,Rasmalai,Desserts,119,1
+294,40,Cheesecake Slice,Desserts,199,1
+295,40,Motichoor Ladoo,Desserts,329,1
+296,40,Kulfi Falooda,Desserts,79,1
+297,41,Chole Bhature,North Indian,149,1
+298,41,Rajma Chawal,North Indian,149,1
+299,41,Paneer Butter Masala,North Indian,219,1
+300,41,Butter Naan,North Indian,349,1
+301,41,Shahi Paneer,North Indian,249,1
+302,41,Lassi,North Indian,79,1
+303,41,Tandoori Roti,North Indian,179,1
+304,42,Smoothie Bowl,Healthy,99,1
+305,42,Quinoa Salad Bowl,Healthy,199,1
+306,42,Grilled Chicken Salad,Healthy,299,0
+307,42,Oats Bowl,Healthy,169,1
+308,42,Protein Wrap,Healthy,149,1
+309,42,Fruit Bowl,Healthy,169,1
+310,43,Chicken 65 Biryani,Biryani,329,0
+311,43,Mutton Biryani,Biryani,149,0
+312,43,Chicken Dum Biryani,Biryani,169,0
+313,43,Egg Biryani,Biryani,169,0
+314,43,Raita,Biryani,279,1
+315,43,Veg Biryani,Biryani,219,1
+316,43,Paneer Biryani,Biryani,199,1
+317,43,Double Ka Meetha,Biryani,329,1
+318,44,Farmhouse Pizza,Pizza,279,1
+319,44,Chicken Dominator,Pizza,329,0
+320,44,Cheese Garlic Bread,Pizza,399,1
+321,44,Peppy Paneer Pizza,Pizza,169,1
+322,44,Veggie Supreme,Pizza,179,1
+323,44,Choco Lava Cake,Pizza,279,1
+324,44,Margherita Pizza,Pizza,249,1
+325,44,Pepperoni Pizza,Pizza,249,0
+326,45,Idli Sambar,South Indian,299,1
+327,45,Upma,South Indian,149,1
+328,45,Medu Vada,South Indian,249,1
+329,45,Mysore Pak,South Indian,279,1
+330,45,Ghee Roast Dosa,South Indian,179,1
+331,45,Curd Rice,South Indian,149,1
+332,45,Uttapam,South Indian,399,1
+333,45,Rava Dosa,South Indian,199,1
+334,45,Filter Coffee,South Indian,329,1
+335,46,Oats Bowl,Healthy,299,1
+336,46,Protein Wrap,Healthy,299,1
+337,46,Grilled Chicken Salad,Healthy,299,0
+338,46,Avocado Toast,Healthy,99,1
+339,46,Quinoa Salad Bowl,Healthy,129,1
+340,46,Green Detox Juice,Healthy,119,1
+341,46,Smoothie Bowl,Healthy,179,1
+342,46,Fruit Bowl,Healthy,99,1
+343,47,Dal Makhani,North Indian,179,1
+344,47,Rajma Chawal,North Indian,219,1
+345,47,Butter Naan,North Indian,329,1
+346,47,Butter Chicken,North Indian,99,0
+347,47,Kadai Paneer,North Indian,99,1
+348,47,Chole Bhature,North Indian,149,1
+349,48,Chocolate Brownie,Desserts,199,1
+350,48,Gulab Jamun,Desserts,279,1
+351,48,Kulfi Falooda,Desserts,119,1
+352,48,Ice Cream Sundae,Desserts,119,1
+353,48,Motichoor Ladoo,Desserts,219,1
+354,48,Waffle with Nutella,Desserts,349,1
+355,48,Cheesecake Slice,Desserts,119,1
+356,48,Rasmalai,Desserts,79,1
+357,49,Choco Lava Cake,Pizza,399,1
+358,49,Veggie Supreme,Pizza,149,1
+359,49,Peppy Paneer Pizza,Pizza,219,1
+360,49,Chicken Dominator,Pizza,199,0
+361,49,Cheese Garlic Bread,Pizza,119,1
+362,49,Pepperoni Pizza,Pizza,299,0
+363,50,Smoothie Bowl,Healthy,199,1
+364,50,Fruit Bowl,Healthy,219,1
+365,50,Green Detox Juice,Healthy,129,1
+366,50,Protein Wrap,Healthy,329,1
+367,50,Avocado Toast,Healthy,99,1
+368,50,Oats Bowl,Healthy,199,1
+369,50,Grilled Chicken Salad,Healthy,149,0
+370,50,Quinoa Salad Bowl,Healthy,169,1
+371,51,Cheesecake Slice,Desserts,149,1
+372,51,Rasmalai,Desserts,199,1
+373,51,Chocolate Brownie,Desserts,219,1
+374,51,Gulab Jamun,Desserts,79,1
+375,51,Motichoor Ladoo,Desserts,299,1
+376,51,Kulfi Falooda,Desserts,399,1
+377,51,Ice Cream Sundae,Desserts,199,1
+378,51,Waffle with Nutella,Desserts,329,1
+379,52,Cheesecake Slice,Desserts,179,1
+380,52,Gulab Jamun,Desserts,399,1
+381,52,Ice Cream Sundae,Desserts,219,1
+382,52,Chocolate Brownie,Desserts,179,1
+383,52,Rasmalai,Desserts,179,1
+384,52,Waffle with Nutella,Desserts,129,1
+385,52,Kulfi Falooda,Desserts,119,1
+386,52,Motichoor Ladoo,Desserts,299,1
+387,53,Chole Bhature,North Indian,149,1
+388,53,Tandoori Roti,North Indian,279,1
+389,53,Garlic Naan,North Indian,299,1
+390,53,Dal Makhani,North Indian,219,1
+391,53,Lassi,North Indian,329,1
+392,53,Shahi Paneer,North Indian,149,1
+393,53,Butter Naan,North Indian,179,1
+394,53,Kadai Paneer,North Indian,129,1
+395,53,Paneer Butter Masala,North Indian,349,1
+396,54,Chicken Zinger,Burger,199,0
+397,54,Veg Whopper,Burger,149,1
+398,54,Cold Coffee,Burger,299,1
+399,54,Aloo Tikki Burger,Burger,249,1
+400,54,Cheese Burger,Burger,199,1
+401,54,Crispy Chicken Burger,Burger,129,0
+402,55,Gulab Jamun,Desserts,149,1
+403,55,Rasmalai,Desserts,119,1
+404,55,Motichoor Ladoo,Desserts,299,1
+405,55,Cheesecake Slice,Desserts,199,1
+406,55,Kulfi Falooda,Desserts,299,1
+407,55,Ice Cream Sundae,Desserts,79,1
+408,55,Chocolate Brownie,Desserts,129,1
+409,55,Waffle with Nutella,Desserts,99,1
+410,56,Margherita Pizza,Pizza,169,1
+411,56,Chicken Dominator,Pizza,199,0
+412,56,Farmhouse Pizza,Pizza,299,1
+413,56,Peppy Paneer Pizza,Pizza,329,1
+414,56,Veggie Supreme,Pizza,79,1
+415,56,Choco Lava Cake,Pizza,169,1
+416,56,Cheese Garlic Bread,Pizza,99,1
+417,57,Gulab Jamun,Desserts,399,1
+418,57,Chocolate Brownie,Desserts,349,1
+419,57,Ice Cream Sundae,Desserts,149,1
+420,57,Motichoor Ladoo,Desserts,349,1
+421,57,Kulfi Falooda,Desserts,179,1
+422,57,Cheesecake Slice,Desserts,349,1
+423,57,Waffle with Nutella,Desserts,79,1
+424,58,Chicken Dominator,Pizza,199,0
+425,58,Pepperoni Pizza,Pizza,299,0
+426,58,Veggie Supreme,Pizza,329,1
+427,58,Farmhouse Pizza,Pizza,99,1
+428,58,Margherita Pizza,Pizza,219,1
+429,58,Choco Lava Cake,Pizza,279,1
+430,59,Cold Coffee,Burger,299,1
+431,59,Cheese Burger,Burger,399,1
+432,59,Crispy Chicken Burger,Burger,219,0
+433,59,Chicken Zinger,Burger,219,0
+434,59,Peri Peri Fries,Burger,99,1
+435,59,Aloo Tikki Burger,Burger,149,1
+436,59,Veg Wrap,Burger,199,1
+437,60,Tandoori Roti,North Indian,169,1
+438,60,Shahi Paneer,North Indian,79,1
+439,60,Butter Chicken,North Indian,119,0
+440,60,Lassi,North Indian,329,1
+441,60,Dal Makhani,North Indian,149,1
+442,60,Rajma Chawal,North Indian,249,1
+443,60,Aloo Paratha,North Indian,99,1
+444,60,Butter Naan,North Indian,179,1
+445,61,Quinoa Salad Bowl,Healthy,129,1
+446,61,Oats Bowl,Healthy,119,1
+447,61,Fruit Bowl,Healthy,199,1
+448,61,Protein Wrap,Healthy,99,1
+449,61,Grilled Chicken Salad,Healthy,279,0
+450,61,Avocado Toast,Healthy,249,1
+451,61,Green Detox Juice,Healthy,169,1
+452,62,Masala Dosa,South Indian,119,1
+453,62,Filter Coffee,South Indian,199,1
+454,62,Medu Vada,South Indian,129,1
+455,62,Ghee Roast Dosa,South Indian,169,1
+456,62,Uttapam,South Indian,219,1
+457,62,Upma,South Indian,329,1
+458,63,Pepperoni Pizza,Pizza,399,0
+459,63,Choco Lava Cake,Pizza,79,1
+460,63,Farmhouse Pizza,Pizza,199,1
+461,63,Margherita Pizza,Pizza,299,1
+462,63,Chicken Dominator,Pizza,199,0
+463,63,Veggie Supreme,Pizza,219,1
+464,63,Cheese Garlic Bread,Pizza,149,1
+465,63,Peppy Paneer Pizza,Pizza,219,1
+466,64,Rava Dosa,South Indian,99,1
+467,64,Medu Vada,South Indian,219,1
+468,64,Filter Coffee,South Indian,119,1
+469,64,Ghee Roast Dosa,South Indian,199,1
+470,64,Mysore Pak,South Indian,149,1
+471,64,Upma,South Indian,349,1
+472,64,Curd Rice,South Indian,149,1
+473,64,Uttapam,South Indian,219,1
+474,64,Masala Dosa,South Indian,169,1
+475,65,Veg Hakka Noodles,Chinese,169,1
+476,65,Chicken 65,Chinese,299,0
+477,65,Momos (Steamed),Chinese,99,1
+478,65,Schezwan Noodles,Chinese,279,1
+479,65,Chicken Fried Rice,Chinese,219,0
+480,65,Honey Chilli Potato,Chinese,349,1
+481,65,Manchurian Dry,Chinese,179,1
+482,65,Chilli Paneer,Chinese,129,1
+483,65,Spring Rolls,Chinese,219,1
+484,66,Smoothie Bowl,Healthy,99,1
+485,66,Fruit Bowl,Healthy,219,1
+486,66,Oats Bowl,Healthy,279,1
+487,66,Avocado Toast,Healthy,99,1
+488,66,Protein Wrap,Healthy,79,1
+489,66,Green Detox Juice,Healthy,349,1
+490,66,Grilled Chicken Salad,Healthy,119,0
+491,66,Quinoa Salad Bowl,Healthy,119,1
+492,67,Chilli Paneer,Chinese,249,1
+493,67,Chicken Fried Rice,Chinese,279,0
+494,67,Momos (Fried),Chinese,349,1
+495,67,Chicken 65,Chinese,179,0
+496,67,Veg Hakka Noodles,Chinese,279,1
+497,67,Schezwan Noodles,Chinese,199,1
+498,68,Upma,South Indian,399,1
+499,68,Uttapam,South Indian,399,1
+500,68,Masala Dosa,South Indian,349,1
+501,68,Medu Vada,South Indian,99,1
+502,68,Idli Sambar,South Indian,199,1
+503,68,Ghee Roast Dosa,South Indian,329,1
+504,68,Mysore Pak,South Indian,279,1
+505,68,Rava Dosa,South Indian,79,1
+506,68,Curd Rice,South Indian,169,1
+507,68,Filter Coffee,South Indian,219,1
+508,69,Avocado Toast,Healthy,349,1
+509,69,Green Detox Juice,Healthy,149,1
+510,69,Oats Bowl,Healthy,99,1
+511,69,Quinoa Salad Bowl,Healthy,129,1
+512,69,Smoothie Bowl,Healthy,219,1
+513,69,Protein Wrap,Healthy,99,1
+514,69,Fruit Bowl,Healthy,99,1
+515,69,Grilled Chicken Salad,Healthy,299,0
+516,70,Veggie Supreme,Pizza,219,1
+517,70,Farmhouse Pizza,Pizza,299,1
+518,70,Pepperoni Pizza,Pizza,219,0
+519,70,Cheese Garlic Bread,Pizza,179,1
+520,70,Choco Lava Cake,Pizza,299,1
+521,70,Peppy Paneer Pizza,Pizza,99,1
+522,70,Margherita Pizza,Pizza,329,1
+523,71,Kulfi Falooda,Desserts,219,1
+524,71,Motichoor Ladoo,Desserts,169,1
+525,71,Ice Cream Sundae,Desserts,279,1
+526,71,Waffle with Nutella,Desserts,119,1
+527,71,Gulab Jamun,Desserts,219,1
+528,71,Cheesecake Slice,Desserts,249,1
+529,71,Chocolate Brownie,Desserts,199,1
+530,71,Rasmalai,Desserts,399,1
+531,72,Crispy Chicken Burger,Burger,249,0
+532,72,Peri Peri Fries,Burger,129,1
+533,72,Chicken Zinger,Burger,249,0
+534,72,Cold Coffee,Burger,219,1
+535,72,Cheese Burger,Burger,129,1
+536,72,Veg Wrap,Burger,179,1
+537,72,Veg Whopper,Burger,329,1
+538,72,Aloo Tikki Burger,Burger,219,1
+539,73,Choco Lava Cake,Pizza,249,1
+540,73,Chicken Dominator,Pizza,79,0
+541,73,Veggie Supreme,Pizza,219,1
+542,73,Pepperoni Pizza,Pizza,119,0
+543,73,Margherita Pizza,Pizza,399,1
+544,73,Peppy Paneer Pizza,Pizza,149,1
+545,73,Cheese Garlic Bread,Pizza,79,1
+546,73,Farmhouse Pizza,Pizza,149,1
+547,74,Egg Biryani,Biryani,99,0
+548,74,Double Ka Meetha,Biryani,79,1
+549,74,Mutton Biryani,Biryani,199,0
+550,74,Chicken Dum Biryani,Biryani,169,0
+551,74,Raita,Biryani,119,1
+552,74,Paneer Biryani,Biryani,119,1
+553,74,Chicken 65 Biryani,Biryani,149,0
+554,75,Egg Biryani,Biryani,299,0
+555,75,Veg Biryani,Biryani,99,1
+556,75,Mutton Biryani,Biryani,299,0
+557,75,Raita,Biryani,169,1
+558,75,Chicken Dum Biryani,Biryani,329,0
+559,75,Chicken 65 Biryani,Biryani,199,0
+560,75,Double Ka Meetha,Biryani,119,1
+561,75,Paneer Biryani,Biryani,199,1
+562,76,Grilled Chicken Salad,Healthy,329,0
+563,76,Fruit Bowl,Healthy,79,1
+564,76,Avocado Toast,Healthy,399,1
+565,76,Smoothie Bowl,Healthy,329,1
+566,76,Quinoa Salad Bowl,Healthy,169,1
+567,76,Green Detox Juice,Healthy,169,1
+568,76,Oats Bowl,Healthy,399,1
+569,76,Protein Wrap,Healthy,349,1
+570,77,Chole Bhature,North Indian,169,1
+571,77,Dal Makhani,North Indian,219,1
+572,77,Tandoori Roti,North Indian,249,1
+573,77,Butter Chicken,North Indian,119,0
+574,77,Lassi,North Indian,169,1
+575,77,Butter Naan,North Indian,219,1
+576,77,Paneer Butter Masala,North Indian,299,1
+577,77,Garlic Naan,North Indian,129,1
+578,77,Rajma Chawal,North Indian,119,1
+579,78,Aloo Paratha,North Indian,179,1
+580,78,Chole Bhature,North Indian,149,1
+581,78,Rajma Chawal,North Indian,329,1
+582,78,Butter Naan,North Indian,179,1
+583,78,Dal Makhani,North Indian,119,1
+584,78,Kadai Paneer,North Indian,119,1
+585,79,Chicken Fried Rice,Chinese,219,0
+586,79,Momos (Fried),Chinese,179,1
+587,79,Veg Hakka Noodles,Chinese,329,1
+588,79,Spring Rolls,Chinese,299,1
+589,79,Chilli Paneer,Chinese,119,1
+590,79,Manchurian Dry,Chinese,329,1
+591,79,Chicken 65,Chinese,119,0
+592,79,Honey Chilli Potato,Chinese,199,1
+593,80,Cheese Burger,Burger,99,1
+594,80,Cold Coffee,Burger,149,1
+595,80,Veg Wrap,Burger,329,1
+596,80,Peri Peri Fries,Burger,179,1
+597,80,Veg Whopper,Burger,169,1
+598,80,Chicken Zinger,Burger,279,0
+599,80,Aloo Tikki Burger,Burger,399,1
+600,80,Crispy Chicken Burger,Burger,249,0
+601,81,Rasmalai,Desserts,129,1
+602,81,Kulfi Falooda,Desserts,169,1
+603,81,Ice Cream Sundae,Desserts,169,1
+604,81,Waffle with Nutella,Desserts,249,1
+605,81,Chocolate Brownie,Desserts,279,1
+606,81,Motichoor Ladoo,Desserts,79,1
+607,82,Peppy Paneer Pizza,Pizza,129,1
+608,82,Pepperoni Pizza,Pizza,279,0
+609,82,Cheese Garlic Bread,Pizza,169,1
+610,82,Chicken Dominator,Pizza,119,0
+611,82,Farmhouse Pizza,Pizza,329,1
+612,82,Choco Lava Cake,Pizza,299,1
+613,82,Margherita Pizza,Pizza,349,1
+614,82,Veggie Supreme,Pizza,99,1
+615,83,Aloo Tikki Burger,Burger,169,1
+616,83,Veg Whopper,Burger,299,1
+617,83,Peri Peri Fries,Burger,329,1
+618,83,Veg Wrap,Burger,99,1
+619,83,Chicken Zinger,Burger,149,0
+620,83,Cold Coffee,Burger,199,1
+621,84,Chicken Dum Biryani,Biryani,249,0
+622,84,Mutton Biryani,Biryani,299,0
+623,84,Veg Biryani,Biryani,119,1
+624,84,Chicken 65 Biryani,Biryani,299,0
+625,84,Raita,Biryani,299,1
+626,84,Paneer Biryani,Biryani,279,1
+627,84,Egg Biryani,Biryani,79,0
+628,84,Double Ka Meetha,Biryani,179,1
+629,85,Margherita Pizza,Pizza,199,1
+630,85,Peppy Paneer Pizza,Pizza,279,1
+631,85,Farmhouse Pizza,Pizza,79,1
+632,85,Pepperoni Pizza,Pizza,99,0
+633,85,Veggie Supreme,Pizza,179,1
+634,85,Cheese Garlic Bread,Pizza,279,1
+635,85,Choco Lava Cake,Pizza,149,1
+636,85,Chicken Dominator,Pizza,279,0
+637,86,Veg Biryani,Biryani,199,1
+638,86,Chicken Dum Biryani,Biryani,349,0
+639,86,Mutton Biryani,Biryani,249,0
+640,86,Egg Biryani,Biryani,219,0
+641,86,Paneer Biryani,Biryani,99,1
+642,86,Chicken 65 Biryani,Biryani,119,0
+643,86,Double Ka Meetha,Biryani,129,1
+644,86,Raita,Biryani,219,1
+645,87,Margherita Pizza,Pizza,299,1
+646,87,Pepperoni Pizza,Pizza,119,0
+647,87,Farmhouse Pizza,Pizza,79,1
+648,87,Cheese Garlic Bread,Pizza,169,1
+649,87,Peppy Paneer Pizza,Pizza,279,1
+650,87,Choco Lava Cake,Pizza,169,1
+651,87,Chicken Dominator,Pizza,169,0
+652,87,Veggie Supreme,Pizza,279,1
+653,88,Rava Dosa,South Indian,219,1
+654,88,Ghee Roast Dosa,South Indian,149,1
+655,88,Uttapam,South Indian,129,1
+656,88,Curd Rice,South Indian,119,1
+657,88,Masala Dosa,South Indian,169,1
+658,88,Medu Vada,South Indian,399,1
+659,88,Upma,South Indian,179,1
+660,88,Filter Coffee,South Indian,279,1
+661,89,Grilled Chicken Salad,Healthy,249,0
+662,89,Avocado Toast,Healthy,119,1
+663,89,Protein Wrap,Healthy,179,1
+664,89,Fruit Bowl,Healthy,149,1
+665,89,Oats Bowl,Healthy,399,1
+666,89,Green Detox Juice,Healthy,249,1
+667,89,Quinoa Salad Bowl,Healthy,169,1
+668,90,Chicken 65,Chinese,299,0
+669,90,Manchurian Dry,Chinese,299,1
+670,90,Chilli Paneer,Chinese,399,1
+671,90,Schezwan Noodles,Chinese,219,1
+672,90,Chicken Fried Rice,Chinese,399,0
+673,90,Spring Rolls,Chinese,119,1
+674,90,Momos (Steamed),Chinese,179,1
+675,90,Veg Hakka Noodles,Chinese,399,1
+676,90,Momos (Fried),Chinese,329,1
+677,91,Mutton Biryani,Biryani,349,0
+678,91,Paneer Biryani,Biryani,399,1
+679,91,Chicken Dum Biryani,Biryani,119,0
+680,91,Chicken 65 Biryani,Biryani,299,0
+681,91,Raita,Biryani,79,1
+682,91,Egg Biryani,Biryani,329,0
+683,91,Veg Biryani,Biryani,169,1
+684,92,Chole Bhature,North Indian,119,1
+685,92,Garlic Naan,North Indian,79,1
+686,92,Rajma Chawal,North Indian,329,1
+687,92,Aloo Paratha,North Indian,249,1
+688,92,Paneer Butter Masala,North Indian,249,1
+689,92,Lassi,North Indian,149,1
+690,92,Dal Makhani,North Indian,249,1
+691,92,Butter Chicken,North Indian,249,0
+692,92,Shahi Paneer,North Indian,249,1
+693,93,Egg Biryani,Biryani,119,0
+694,93,Veg Biryani,Biryani,219,1
+695,93,Raita,Biryani,349,1
+696,93,Chicken Dum Biryani,Biryani,249,0
+697,93,Mutton Biryani,Biryani,199,0
+698,93,Chicken 65 Biryani,Biryani,299,0
+699,93,Double Ka Meetha,Biryani,279,1
+700,94,Medu Vada,South Indian,79,1
+701,94,Curd Rice,South Indian,179,1
+702,94,Mysore Pak,South Indian,329,1
+703,94,Rava Dosa,South Indian,79,1
+704,94,Idli Sambar,South Indian,399,1
+705,94,Filter Coffee,South Indian,149,1
+706,94,Uttapam,South Indian,179,1
+707,94,Masala Dosa,South Indian,129,1
+708,95,Protein Wrap,Healthy,349,1
+709,95,Quinoa Salad Bowl,Healthy,199,1
+710,95,Grilled Chicken Salad,Healthy,399,0
+711,95,Oats Bowl,Healthy,129,1
+712,95,Fruit Bowl,Healthy,179,1
+713,95,Smoothie Bowl,Healthy,179,1
+714,95,Avocado Toast,Healthy,329,1
+715,96,Double Ka Meetha,Biryani,99,1
+716,96,Raita,Biryani,199,1
+717,96,Mutton Biryani,Biryani,199,0
+718,96,Egg Biryani,Biryani,349,0
+719,96,Chicken Dum Biryani,Biryani,399,0
+720,96,Paneer Biryani,Biryani,79,1
+721,97,Waffle with Nutella,Desserts,129,1
+722,97,Kulfi Falooda,Desserts,149,1
+723,97,Gulab Jamun,Desserts,199,1
+724,97,Cheesecake Slice,Desserts,179,1
+725,97,Ice Cream Sundae,Desserts,399,1
+726,97,Chocolate Brownie,Desserts,149,1
+727,97,Motichoor Ladoo,Desserts,329,1
+728,98,Motichoor Ladoo,Desserts,349,1
+729,98,Rasmalai,Desserts,279,1
+730,98,Ice Cream Sundae,Desserts,199,1
+731,98,Chocolate Brownie,Desserts,99,1
+732,98,Gulab Jamun,Desserts,299,1
+733,98,Cheesecake Slice,Desserts,219,1
+734,98,Kulfi Falooda,Desserts,99,1
+735,98,Waffle with Nutella,Desserts,119,1
+736,99,Lassi,North Indian,249,1
+737,99,Butter Naan,North Indian,399,1
+738,99,Paneer Butter Masala,North Indian,299,1
+739,99,Chole Bhature,North Indian,399,1
+740,99,Aloo Paratha,North Indian,129,1
+741,99,Kadai Paneer,North Indian,399,1
+742,99,Tandoori Roti,North Indian,199,1
+743,99,Butter Chicken,North Indian,99,0
+744,99,Dal Makhani,North Indian,149,1
+745,99,Shahi Paneer,North Indian,169,1
+746,100,Grilled Chicken Salad,Healthy,299,0
+747,100,Quinoa Salad Bowl,Healthy,329,1
+748,100,Green Detox Juice,Healthy,219,1
+749,100,Protein Wrap,Healthy,249,1
+750,100,Smoothie Bowl,Healthy,119,1
+751,100,Avocado Toast,Healthy,179,1
+752,100,Oats Bowl,Healthy,219,1
+753,101,Chicken Dum Biryani,Biryani,329,0
+754,101,Double Ka Meetha,Biryani,299,1
+755,101,Veg Biryani,Biryani,79,1
+756,101,Mutton Biryani,Biryani,179,0
+757,101,Raita,Biryani,149,1
+758,101,Paneer Biryani,Biryani,149,1
+759,101,Chicken 65 Biryani,Biryani,299,0
+760,101,Egg Biryani,Biryani,329,0
+761,102,Peri Peri Fries,Burger,79,1
+762,102,Crispy Chicken Burger,Burger,199,0
+763,102,Veg Whopper,Burger,199,1
+764,102,Aloo Tikki Burger,Burger,349,1
+765,102,Veg Wrap,Burger,199,1
+766,102,Cold Coffee,Burger,219,1
+767,102,Chicken Zinger,Burger,329,0
+768,102,Cheese Burger,Burger,79,1
+769,103,Momos (Fried),Chinese,249,1
+770,103,Chilli Paneer,Chinese,249,1
+771,103,Chicken 65,Chinese,79,0
+772,103,Spring Rolls,Chinese,129,1
+773,103,Schezwan Noodles,Chinese,399,1
+774,103,Honey Chilli Potato,Chinese,219,1
+775,103,Momos (Steamed),Chinese,149,1
+776,103,Chicken Fried Rice,Chinese,249,0
+777,103,Manchurian Dry,Chinese,279,1
+778,103,Veg Hakka Noodles,Chinese,219,1
+779,104,Margherita Pizza,Pizza,349,1
+780,104,Farmhouse Pizza,Pizza,79,1
+781,104,Veggie Supreme,Pizza,279,1
+782,104,Pepperoni Pizza,Pizza,249,0
+783,104,Peppy Paneer Pizza,Pizza,349,1
+784,104,Cheese Garlic Bread,Pizza,249,1
+785,104,Chicken Dominator,Pizza,149,0
+786,105,Grilled Chicken Salad,Healthy,199,0
+787,105,Quinoa Salad Bowl,Healthy,299,1
+788,105,Green Detox Juice,Healthy,249,1
+789,105,Protein Wrap,Healthy,169,1
+790,105,Oats Bowl,Healthy,399,1
+791,105,Avocado Toast,Healthy,79,1
+792,105,Fruit Bowl,Healthy,99,1
+793,105,Smoothie Bowl,Healthy,329,1
+794,106,Raita,Biryani,199,1
+795,106,Mutton Biryani,Biryani,119,0
+796,106,Egg Biryani,Biryani,99,0
+797,106,Chicken Dum Biryani,Biryani,299,0
+798,106,Paneer Biryani,Biryani,349,1
+799,106,Double Ka Meetha,Biryani,149,1
+800,106,Chicken 65 Biryani,Biryani,169,0
+801,106,Veg Biryani,Biryani,219,1
+802,107,Cheese Burger,Burger,299,1
+803,107,Crispy Chicken Burger,Burger,299,0
+804,107,Veg Whopper,Burger,249,1
+805,107,Peri Peri Fries,Burger,399,1
+806,107,Aloo Tikki Burger,Burger,329,1
+807,107,Cold Coffee,Burger,299,1
+808,107,Chicken Zinger,Burger,149,0
+809,107,Veg Wrap,Burger,179,1
+810,108,Crispy Chicken Burger,Burger,199,0
+811,108,Chicken Zinger,Burger,329,0
+812,108,Peri Peri Fries,Burger,119,1
+813,108,Cold Coffee,Burger,399,1
+814,108,Veg Wrap,Burger,249,1
+815,108,Aloo Tikki Burger,Burger,129,1
+816,108,Veg Whopper,Burger,299,1
+817,108,Cheese Burger,Burger,149,1
+818,109,Quinoa Salad Bowl,Healthy,329,1
+819,109,Oats Bowl,Healthy,249,1
+820,109,Green Detox Juice,Healthy,179,1
+821,109,Protein Wrap,Healthy,179,1
+822,109,Avocado Toast,Healthy,79,1
+823,109,Smoothie Bowl,Healthy,169,1
+824,109,Fruit Bowl,Healthy,169,1
+825,110,Aloo Paratha,North Indian,219,1
+826,110,Tandoori Roti,North Indian,169,1
+827,110,Butter Chicken,North Indian,329,0
+828,110,Lassi,North Indian,79,1
+829,110,Garlic Naan,North Indian,99,1
+830,110,Paneer Butter Masala,North Indian,279,1
+831,110,Kadai Paneer,North Indian,169,1
+832,110,Chole Bhature,North Indian,169,1
+833,110,Rajma Chawal,North Indian,179,1
+834,110,Butter Naan,North Indian,299,1
+835,111,Kadai Paneer,North Indian,279,1
+836,111,Butter Chicken,North Indian,119,0
+837,111,Paneer Butter Masala,North Indian,199,1
+838,111,Tandoori Roti,North Indian,119,1
+839,111,Shahi Paneer,North Indian,279,1
+840,111,Chole Bhature,North Indian,199,1
+841,111,Lassi,North Indian,399,1
+842,111,Butter Naan,North Indian,349,1
+843,111,Garlic Naan,North Indian,219,1
+844,111,Aloo Paratha,North Indian,399,1
+845,112,Cold Coffee,Burger,129,1
+846,112,Veg Wrap,Burger,249,1
+847,112,Cheese Burger,Burger,279,1
+848,112,Aloo Tikki Burger,Burger,169,1
+849,112,Chicken Zinger,Burger,329,0
+850,112,Crispy Chicken Burger,Burger,399,0
+851,112,Veg Whopper,Burger,399,1
+852,112,Peri Peri Fries,Burger,329,1
+853,113,Rasmalai,Desserts,119,1
+854,113,Motichoor Ladoo,Desserts,249,1
+855,113,Chocolate Brownie,Desserts,99,1
+856,113,Gulab Jamun,Desserts,349,1
+857,113,Kulfi Falooda,Desserts,329,1
+858,113,Waffle with Nutella,Desserts,329,1
+859,113,Cheesecake Slice,Desserts,149,1
+860,113,Ice Cream Sundae,Desserts,299,1
+861,114,Gulab Jamun,Desserts,349,1
+862,114,Chocolate Brownie,Desserts,149,1
+863,114,Ice Cream Sundae,Desserts,129,1
+864,114,Motichoor Ladoo,Desserts,219,1
+865,114,Kulfi Falooda,Desserts,149,1
+866,114,Cheesecake Slice,Desserts,119,1
+867,114,Rasmalai,Desserts,99,1
+868,114,Waffle with Nutella,Desserts,169,1
+869,115,Protein Wrap,Healthy,399,1
+870,115,Quinoa Salad Bowl,Healthy,219,1
+871,115,Oats Bowl,Healthy,119,1
+872,115,Fruit Bowl,Healthy,129,1
+873,115,Green Detox Juice,Healthy,169,1
+874,115,Grilled Chicken Salad,Healthy,399,0
+875,116,Peri Peri Fries,Burger,299,1
+876,116,Veg Wrap,Burger,79,1
+877,116,Chicken Zinger,Burger,199,0
+878,116,Veg Whopper,Burger,179,1
+879,116,Aloo Tikki Burger,Burger,299,1
+880,116,Crispy Chicken Burger,Burger,349,0
+881,116,Cheese Burger,Burger,219,1
+882,116,Cold Coffee,Burger,99,1
+883,117,Spring Rolls,Chinese,99,1
+884,117,Veg Hakka Noodles,Chinese,219,1
+885,117,Chicken Fried Rice,Chinese,329,0
+886,117,Manchurian Dry,Chinese,279,1
+887,117,Chilli Paneer,Chinese,299,1
+888,117,Chicken 65,Chinese,149,0
+889,118,Fruit Bowl,Healthy,149,1
+890,118,Avocado Toast,Healthy,149,1
+891,118,Grilled Chicken Salad,Healthy,219,0
+892,118,Smoothie Bowl,Healthy,169,1
+893,118,Green Detox Juice,Healthy,329,1
+894,118,Quinoa Salad Bowl,Healthy,199,1
+895,119,Cheese Garlic Bread,Pizza,249,1
+896,119,Farmhouse Pizza,Pizza,219,1
+897,119,Veggie Supreme,Pizza,219,1
+898,119,Peppy Paneer Pizza,Pizza,99,1
+899,119,Margherita Pizza,Pizza,129,1
+900,119,Chicken Dominator,Pizza,219,0
+901,120,Chicken 65,Chinese,99,0
+902,120,Schezwan Noodles,Chinese,149,1
+903,120,Spring Rolls,Chinese,249,1
+904,120,Chicken Fried Rice,Chinese,399,0
+905,120,Honey Chilli Potato,Chinese,169,1
+906,120,Manchurian Dry,Chinese,219,1
+907,120,Momos (Steamed),Chinese,199,1
+908,120,Veg Hakka Noodles,Chinese,79,1

@@ -1,0 +1,121 @@
+restaurant_id,restaurant_name,cuisine,city,onboard_date
+1,The Great Dragon,Chinese,Mumbai,2023-10-27
+2,The Great Dessert Bar,Desserts,Pune,2024-11-29
+3,Happy Tiffins,South Indian,Bangalore,2024-12-02
+4,Spicy Biryani House,Biryani,Mumbai,2024-10-30
+5,Saffron Dragon,Chinese,Bangalore,2023-04-12
+6,The Great Corner,South Indian,Mumbai,2024-03-19
+7,Southern Health Hub,Healthy,Mumbai,2025-04-24
+8,Grand Pizzeria,Pizza,Pune,2023-04-18
+9,Royal Pizzeria,Pizza,Bangalore,2024-09-20
+10,Grand Slice Co.,Pizza,Delhi,2024-05-05
+11,Hungry Burger Co.,Burger,Pune,2024-07-31
+12,Sizzling Bites,Burger,Bangalore,2024-06-21
+13,The Great Eatery,Healthy,Jaipur,2024-01-17
+14,Tasty Handi,Biryani,Jaipur,2023-02-21
+15,Royal Greens,Healthy,Delhi,2025-01-18
+16,Royal Crust,Pizza,Bangalore,2025-01-26
+17,Spicy Biryani Co.,Biryani,Pune,2024-09-13
+18,Masala Dhaba,North Indian,Hyderabad,2023-08-02
+19,Spicy Dhaba,North Indian,Mumbai,2024-05-08
+20,Crispy Tiffins,South Indian,Bangalore,2024-12-27
+21,Royal Slice Co.,Pizza,Mumbai,2025-02-18
+22,Masala Bites,Burger,Hyderabad,2024-03-30
+23,Fresh Corner,South Indian,Delhi,2025-02-05
+24,Happy Bhavan,South Indian,Bangalore,2023-03-28
+25,Fresh Grill,Burger,Mumbai,2024-04-08
+26,Hungry Burger Co.,Burger,Bangalore,2024-11-01
+27,Midnight Bakery,Desserts,Delhi,2023-07-15
+28,Desi Corner,South Indian,Hyderabad,2024-12-31
+29,Fresh Cafe,South Indian,Hyderabad,2025-02-18
+30,Golden Junction,Burger,Jaipur,2024-08-02
+31,Sizzling Burger Co.,Burger,Delhi,2024-12-05
+32,Curry Kitchen,North Indian,Pune,2024-07-16
+33,Desi Bowl Co.,Healthy,Pune,2025-04-16
+34,The Great Rasoi,North Indian,Mumbai,2024-03-10
+35,Urban Shack,Burger,Pune,2024-11-26
+36,Punjabi Mess,South Indian,Jaipur,2024-08-27
+37,Happy Health Hub,Healthy,Bangalore,2023-03-08
+38,Desi Dragon,Chinese,Hyderabad,2025-04-02
+39,Desi Express,Chinese,Pune,2024-01-24
+40,Hungry Creamery,Desserts,Mumbai,2024-05-30
+41,The Great Tandoor,North Indian,Jaipur,2025-02-06
+42,Sizzling Bowl Co.,Healthy,Delhi,2023-08-01
+43,Royal Pot,Biryani,Hyderabad,2023-10-20
+44,Midnight Crust,Pizza,Bangalore,2023-06-15
+45,Southern Bhavan,South Indian,Bangalore,2023-07-23
+46,The Great Fit Kitchen,Healthy,Pune,2023-09-13
+47,Royal Rasoi,North Indian,Bangalore,2024-02-07
+48,Hungry Sweets,Desserts,Hyderabad,2024-07-08
+49,Midnight Slice Co.,Pizza,Delhi,2024-10-16
+50,Punjabi Greens,Healthy,Delhi,2024-03-04
+51,Urban Mithai Ghar,Desserts,Mumbai,2025-01-31
+52,Royal Sweets,Desserts,Mumbai,2025-04-26
+53,Urban Zaika,North Indian,Jaipur,2023-08-19
+54,Fresh Bites,Burger,Delhi,2023-07-15
+55,Midnight Dessert Bar,Desserts,Pune,2023-02-16
+56,Sizzling Slice Co.,Pizza,Bangalore,2023-09-06
+57,Grand Mithai Ghar,Desserts,Delhi,2023-04-16
+58,Royal Slice Co.,Pizza,Mumbai,2023-08-23
+59,Crispy Bites,Burger,Mumbai,2025-02-13
+60,Hungry Tandoor,North Indian,Delhi,2023-05-29
+61,Desi Eatery,Healthy,Bangalore,2024-11-21
+62,Punjabi Bhavan,South Indian,Mumbai,2023-03-24
+63,Midnight Pizzeria,Pizza,Hyderabad,2025-04-15
+64,Sizzling Mess,South Indian,Bangalore,2024-01-02
+65,Happy Wok,Chinese,Bangalore,2025-04-13
+66,Saffron Health Hub,Healthy,Jaipur,2023-03-25
+67,Saffron Dragon,Chinese,Hyderabad,2025-01-21
+68,Punjabi Corner,South Indian,Bangalore,2024-07-07
+69,Southern Fit Kitchen,Healthy,Pune,2023-04-13
+70,Blue Pizza House,Pizza,Jaipur,2024-08-04
+71,The Great Bakery,Desserts,Mumbai,2023-06-16
+72,Crispy Shack,Burger,Hyderabad,2023-11-13
+73,Tasty Oven,Pizza,Bangalore,2024-08-08
+74,The Great Handi,Biryani,Bangalore,2023-06-22
+75,Desi Darbar,Biryani,Bangalore,2023-10-14
+76,Crispy Eatery,Healthy,Pune,2024-03-26
+77,Fresh Dhaba,North Indian,Delhi,2025-01-04
+78,Spicy Rasoi,North Indian,Mumbai,2023-03-20
+79,Curry Bowl,Chinese,Delhi,2025-03-30
+80,Tasty Bites,Burger,Delhi,2023-02-19
+81,Desi Creamery,Desserts,Pune,2023-05-06
+82,Crispy Pizza House,Pizza,Delhi,2023-03-21
+83,Spicy Junction,Burger,Mumbai,2023-03-17
+84,Crispy Biryani House,Biryani,Delhi,2024-09-17
+85,Masala Pizza House,Pizza,Pune,2023-08-23
+86,Saffron Pot,Biryani,Hyderabad,2024-11-12
+87,Curry Pizza House,Pizza,Delhi,2023-07-03
+88,Hungry Bhavan,South Indian,Hyderabad,2025-01-30
+89,Spicy Health Hub,Healthy,Mumbai,2024-09-04
+90,Hungry House,Chinese,Pune,2025-05-27
+91,Sizzling Handi,Biryani,Delhi,2024-07-06
+92,Masala Kitchen,North Indian,Bangalore,2023-10-24
+93,Urban Darbar,Biryani,Bangalore,2024-11-25
+94,Fresh Bhavan,South Indian,Mumbai,2023-11-30
+95,Urban Eatery,Healthy,Delhi,2024-10-26
+96,Midnight Darbar,Biryani,Mumbai,2023-04-23
+97,Crispy Sweets,Desserts,Delhi,2024-06-12
+98,Golden Creamery,Desserts,Pune,2024-09-25
+99,Midnight Tandoor,North Indian,Pune,2025-02-05
+100,Blue Fit Kitchen,Healthy,Hyderabad,2025-05-07
+101,Fresh Pot,Biryani,Mumbai,2025-04-18
+102,Tasty Shack,Burger,Bangalore,2025-02-23
+103,Crispy House,Chinese,Delhi,2025-03-26
+104,Tasty Pizza House,Pizza,Pune,2024-11-03
+105,Urban Greens,Healthy,Delhi,2023-05-29
+106,Spicy Biryani House,Biryani,Delhi,2024-12-01
+107,Crispy Burger Co.,Burger,Bangalore,2024-10-11
+108,Southern Junction,Burger,Mumbai,2024-04-13
+109,Midnight Bowl Co.,Healthy,Mumbai,2025-01-31
+110,Masala Dhaba,North Indian,Hyderabad,2023-10-11
+111,Urban Kitchen,North Indian,Jaipur,2025-02-13
+112,Curry Bites,Burger,Delhi,2023-04-10
+113,Punjabi Mithai Ghar,Desserts,Pune,2025-05-01
+114,Hungry Creamery,Desserts,Delhi,2023-04-29
+115,Crispy Eatery,Healthy,Jaipur,2025-01-05
+116,Grand Burger Co.,Burger,Bangalore,2023-11-11
+117,Desi Wok,Chinese,Delhi,2023-09-30
+118,Crispy Fit Kitchen,Healthy,Jaipur,2024-07-24
+119,Grand Oven,Pizza,Mumbai,2023-08-10
+120,Hungry Dragon,Chinese,Delhi,2023-01-29
